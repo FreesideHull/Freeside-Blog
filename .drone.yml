@@ -1,10 +1,9 @@
 pipeline:
   build:
-    image: grahamc/jekyll
+    image: ruby
     commands:
-      - gem install bundler
       - bundle install
-      - jekyll build --config _config.yml
+      - bundle jekyll build
   rsync:
     image: drillster/drone-rsync
     user: web
