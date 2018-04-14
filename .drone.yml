@@ -3,7 +3,7 @@ pipeline:
     image: ruby
     commands:
       - bundle install
-      - bundle jekyll build
+      - bundle exec jekyll build
   rsync:
     image: drillster/drone-rsync
     user: web
