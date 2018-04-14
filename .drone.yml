@@ -1,0 +1,22 @@
+pipeline:
+  build:
+    image: grahamc/jekyll
+    commands:
+      - gem install bundler
+      - bundle install
+      - jekyll build --config _config.yml
+  rsync:
+    image: drillster/drone-rsync
+    user: web
+    hosts:
+      - freeside.co.uk
+    source: ./_site
+    target: ~/freeside-site
+    secrets: [ rsync_key ]
+    when:
+      branch: master
+  discord:
+    image: appleboy/drone-discord
+    secrets: [ discord_webhook_id, discord_webhook_token ]
+    when:
+      status: [ success, failure ]
