@@ -10,7 +10,7 @@ pipeline:
     hosts:
       - freeside.co.uk
     source: ./_site
-    target: ~/freeside-site
+    target: /var/www/freeside-site/
     secrets: [ rsync_key ]
     when:
       branch: master
