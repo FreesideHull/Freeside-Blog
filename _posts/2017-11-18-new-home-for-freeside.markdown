@@ -20,12 +20,12 @@ Towards the end of 2016 we were told by the department that we could not run the
 
 Unfortunately the University has been through a restructure and had decided that 203 would be better off as something else. Thanks to some help from the awesome people in the CS department we managed to get some a new space for Freeside; the old CS Library! (Room 300) which will soon become the only Linux Lab on Campus.
 
-#The new start.
+# The new start.
 We are not allowed to host our own production hardware but the room has the advantage of being much more secure with card access required to enter the room, 7 modern PCs and the room also has a much more modern feel.
 
 ![The new room](https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/22007531_913197692165281_4143075104486123043_n.jpg?oh=a95b8c96e3c125d22211475ed747820b&oe=5AA122FB)
 
-#So what will Freeside become now?
+# What will Freeside become now?
 
 Freeside will mostly become a linux and UNIX Lab, we will continue to host our own services in the cloud but will be focusing more on development of Linux software and most importantly of all, having fun! We have already got a few fun projects planned such as building our own 3D printer and possibly a drone. We will also be focusing on hosting regular socials and hope to work alongside the [Hull University Computer Science Society](https://www.facebook.com/hullCSS/).
 

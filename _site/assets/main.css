@@ -19,7 +19,10 @@ body {
   -moz-font-feature-settings: "kern" 1;
   -o-font-feature-settings: "kern" 1;
   font-feature-settings: "kern" 1;
-  font-kerning: normal; }
+  font-kerning: normal;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column; }
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -73,10 +76,10 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #2a7ae2;
+  color: #FE6431;
   text-decoration: none; }
   a:visited {
-    color: #1756a9; }
+    color: #e13901; }
   a:hover {
     color: #111;
     text-decoration: underline; }
@@ -234,7 +237,7 @@ table {
         line-height: 0;
         padding-top: 10px;
         text-align: center; }
-        .site-nav .menu-icon > svg path {
+        .site-nav .menu-icon > svg {
           fill: #424242; }
       .site-nav input ~ .trigger {
         clear: both;
@@ -305,7 +308,8 @@ table {
  * Page content
  */
 .page-content {
-  padding: 30px 0; }
+  padding: 30px 0;
+  flex: 1; }
 
 .page-heading {
   font-size: 32px; }

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="https://freeside.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://freeside.co.uk/" rel="alternate" type="text/html" /><updated>2018-04-15T03:11:38+01:00</updated><id>https://freeside.co.uk/</id><title type="html">Freeside</title><subtitle>Freeside is a student run project at the University of Hull (http://www.hull.ac.uk/) which offers free (in both free beer and free speech terms) Unix, Open and Alternative computing services to the student population </subtitle><entry><title type="html">Rising from the ashes (The state of Freeside)</title><link href="https://freeside.co.uk/2017/11/18/new-home-for-freeside.html" rel="alternate" type="text/html" title="Rising from the ashes (The state of Freeside)" /><published>2017-11-18T11:53:45+00:00</published><updated>2017-11-18T11:53:45+00:00</updated><id>https://freeside.co.uk/2017/11/18/new-home-for-freeside</id><content type="html" xml:base="https://freeside.co.uk/2017/11/18/new-home-for-freeside.html">&lt;h1 id=&quot;the-beginnings&quot;&gt;The beginnings.&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2018-04-15T10:47:10+01:00</updated><id>http://0.0.0.0:4000/</id><title type="html">Freeside</title><subtitle>Freeside is a student run project at the University of Hull (http://www.hull.ac.uk/) which offers free (in both free beer and free speech terms) Unix, Open and Alternative computing services to the student population </subtitle><entry><title type="html">Rising from the ashes (The state of Freeside)</title><link href="http://0.0.0.0:4000/2017/11/18/new-home-for-freeside.html" rel="alternate" type="text/html" title="Rising from the ashes (The state of Freeside)" /><published>2017-11-18T11:53:45+00:00</published><updated>2017-11-18T11:53:45+00:00</updated><id>http://0.0.0.0:4000/2017/11/18/new-home-for-freeside</id><content type="html" xml:base="http://0.0.0.0:4000/2017/11/18/new-home-for-freeside.html">&lt;h1 id=&quot;the-beginnings&quot;&gt;The beginnings.&lt;/h1&gt;
 
 &lt;p&gt;Freeside was started back in 1997 with a decommissioned Sun box and a frustration of the Universities strict single OS network. Over the years Freeside has been very volatile with many people trying to keep it going through out the years. The latest revive was started by a group of 2015 year students and whilst this latest attempt has been certainly rocky and we have not achieved much of what we set out to do, it has been fun to have a place with like minded people. Personally I have learnt a lot from Freeside that would have not had the opportunity otherwise.&lt;/p&gt;
 
@@ -11,12 +11,12 @@
 
 &lt;p&gt;Unfortunately the University has been through a restructure and had decided that 203 would be better off as something else. Thanks to some help from the awesome people in the CS department we managed to get some a new space for Freeside; the old CS Library! (Room 300) which will soon become the only Linux Lab on Campus.&lt;/p&gt;
 
-&lt;p&gt;#The new start.
-We are not allowed to host our own production hardware but the room has the advantage of being much more secure with card access required to enter the room, 7 modern PCs and the room also has a much more modern feel.&lt;/p&gt;
+&lt;h1 id=&quot;the-new-start&quot;&gt;The new start.&lt;/h1&gt;
+&lt;p&gt;We are not allowed to host our own production hardware but the room has the advantage of being much more secure with card access required to enter the room, 7 modern PCs and the room also has a much more modern feel.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/22007531_913197692165281_4143075104486123043_n.jpg?oh=a95b8c96e3c125d22211475ed747820b&amp;amp;oe=5AA122FB&quot; alt=&quot;The new room&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;#So what will Freeside become now?&lt;/p&gt;
+&lt;h1 id=&quot;what-will-freeside-become-now&quot;&gt;What will Freeside become now?&lt;/h1&gt;
 
 &lt;p&gt;Freeside will mostly become a linux and UNIX Lab, we will continue to host our own services in the cloud but will be focusing more on development of Linux software and most importantly of all, having fun! We have already got a few fun projects planned such as building our own 3D printer and possibly a drone. We will also be focusing on hosting regular socials and hope to work alongside the &lt;a href=&quot;https://www.facebook.com/hullCSS/&quot;&gt;Hull University Computer Science Society&lt;/a&gt;.&lt;/p&gt;
 
@@ -39,14 +39,14 @@ Our primary communications have been moved over to Discord which you can join he
 &lt;div id=&quot;discourse-comments&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   var discourseUrl = &quot;https://forums.freeside.co.uk/&quot;,
-      discourseEmbedUrl = &quot;https://freeside.co.uk//2017/11/18/new-home-for-freeside.html&quot;;
+      discourseEmbedUrl = &quot;http://0.0.0.0:4000//2017/11/18/new-home-for-freeside.html&quot;;
 
   (function() {
     var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
       d.src = discourseUrl + 'javascripts/embed.js';
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
   })();
-&lt;/script&gt;</content><author><name>Kieran Coldron</name></author><category term="updates" /><summary type="html">The beginnings.</summary></entry><entry><title type="html">Special Delivery!</title><link href="https://freeside.co.uk/2016/03/10/special-delivery.html" rel="alternate" type="text/html" title="Special Delivery!" /><published>2016-03-10T14:35:34+00:00</published><updated>2016-03-10T14:35:34+00:00</updated><id>https://freeside.co.uk/2016/03/10/special-delivery</id><content type="html" xml:base="https://freeside.co.uk/2016/03/10/special-delivery.html">&lt;p&gt;We received a phone call this morning from a freight company, letting us know they had a delivery for us. We were most excited as a HGV pulled into the courtyard outside Robert Blackburn, containing our package. It looked a little lonely being one of the two (rather small) remaining items in the behemoth of a delivery vehicle!
+&lt;/script&gt;</content><author><name>Kieran Coldron</name></author><category term="updates" /><summary type="html">The beginnings.</summary></entry><entry><title type="html">Special Delivery!</title><link href="http://0.0.0.0:4000/2016/03/10/special-delivery.html" rel="alternate" type="text/html" title="Special Delivery!" /><published>2016-03-10T14:35:34+00:00</published><updated>2016-03-10T14:35:34+00:00</updated><id>http://0.0.0.0:4000/2016/03/10/special-delivery</id><content type="html" xml:base="http://0.0.0.0:4000/2016/03/10/special-delivery.html">&lt;p&gt;We received a phone call this morning from a freight company, letting us know they had a delivery for us. We were most excited as a HGV pulled into the courtyard outside Robert Blackburn, containing our package. It looked a little lonely being one of the two (rather small) remaining items in the behemoth of a delivery vehicle!
 &lt;img src=&quot;http://i.imgur.com/fkNlxZM.jpg&quot; alt=&quot;Servers on the pallet&quot; /&gt;
 The delivery driver was kind enough to wheel the pallet all the way up to the Freeside Office, where we  began to tear into it!&lt;/p&gt;
 
@@ -57,14 +57,14 @@ The delivery driver was kind enough to wheel the pallet all the way up to the Fr
 &lt;div id=&quot;discourse-comments&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   var discourseUrl = &quot;https://forums.freeside.co.uk/&quot;,
-      discourseEmbedUrl = &quot;https://freeside.co.uk//2016/03/10/special-delivery.html&quot;;
+      discourseEmbedUrl = &quot;http://0.0.0.0:4000//2016/03/10/special-delivery.html&quot;;
 
   (function() {
     var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
       d.src = discourseUrl + 'javascripts/embed.js';
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
   })();
-&lt;/script&gt;</content><author><name></name></author><category term="news" /><summary type="html">We received a phone call this morning from a freight company, letting us know they had a delivery for us. We were most excited as a HGV pulled into the courtyard outside Robert Blackburn, containing our package. It looked a little lonely being one of the two (rather small) remaining items in the behemoth of a delivery vehicle! The delivery driver was kind enough to wheel the pallet all the way up to the Freeside Office, where we began to tear into it!</summary></entry><entry><title type="html">Servers, Coffee, Mugs and more</title><link href="https://freeside.co.uk/2016/03/08/servers-coffee-mugs-and-more.html" rel="alternate" type="text/html" title="Servers, Coffee, Mugs and more" /><published>2016-03-08T14:10:11+00:00</published><updated>2016-03-08T14:10:11+00:00</updated><id>https://freeside.co.uk/2016/03/08/servers-coffee-mugs-and-more</id><content type="html" xml:base="https://freeside.co.uk/2016/03/08/servers-coffee-mugs-and-more.html">&lt;p&gt;So this past week has been a rather eventful one. A lot of progress has been made in getting our service online!&lt;/p&gt;
+&lt;/script&gt;</content><author><name></name></author><category term="news" /><summary type="html">We received a phone call this morning from a freight company, letting us know they had a delivery for us. We were most excited as a HGV pulled into the courtyard outside Robert Blackburn, containing our package. It looked a little lonely being one of the two (rather small) remaining items in the behemoth of a delivery vehicle! The delivery driver was kind enough to wheel the pallet all the way up to the Freeside Office, where we began to tear into it!</summary></entry><entry><title type="html">Servers, Coffee, Mugs and more</title><link href="http://0.0.0.0:4000/2016/03/08/servers-coffee-mugs-and-more.html" rel="alternate" type="text/html" title="Servers, Coffee, Mugs and more" /><published>2016-03-08T14:10:11+00:00</published><updated>2016-03-08T14:10:11+00:00</updated><id>http://0.0.0.0:4000/2016/03/08/servers-coffee-mugs-and-more</id><content type="html" xml:base="http://0.0.0.0:4000/2016/03/08/servers-coffee-mugs-and-more.html">&lt;p&gt;So this past week has been a rather eventful one. A lot of progress has been made in getting our service online!&lt;/p&gt;
 
 &lt;p&gt;Firstly, the whole Freeside Cluster was rebuilt over the weekend, due to an issue with our SAN causing huge IO Wait on one of our nodes. It was determined the best way to repair this was to reimage, but this caused further issues with the quorum on the servers. In the end, we decided the best plan of action was to wipe everything and start again.&lt;/p&gt;
 
@@ -83,7 +83,7 @@ The delivery driver was kind enough to wheel the pallet all the way up to the Fr
 &lt;div id=&quot;discourse-comments&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   var discourseUrl = &quot;https://forums.freeside.co.uk/&quot;,
-      discourseEmbedUrl = &quot;https://freeside.co.uk//2016/03/08/servers-coffee-mugs-and-more.html&quot;;
+      discourseEmbedUrl = &quot;http://0.0.0.0:4000//2016/03/08/servers-coffee-mugs-and-more.html&quot;;
 
   (function() {
     var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;

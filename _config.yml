@@ -24,7 +24,7 @@ twitter_username: FreesideHull
 facebook_username: FreesideHull
 github_username:  FreesideHull
 
-show_excerpts: true
+show_excerpts: false
 
 discourse_url: "https://forums.freeside.co.uk"
 
