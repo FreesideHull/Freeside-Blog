@@ -18,8 +18,8 @@ title: Freeside
 email: admin@freeside.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
     Freeside is a student run project at the University of Hull (http://www.hull.ac.uk/) which offers free (in both free beer and free speech terms) Unix, Open and Alternative computing services to the student population 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://freeside.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FreesideHull
 github_username:  FreesideHull
 
