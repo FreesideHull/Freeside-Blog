@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rising from the ashes (The state of Freeside)
+title: The state of Freeside
 date: '2017-11-18 11:53:45'
 author: Kieran Coldron
 tags:
