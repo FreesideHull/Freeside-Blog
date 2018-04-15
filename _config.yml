@@ -21,7 +21,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://freeside.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FreesideHull
+facebook_username: FreesideHull
 github_username:  FreesideHull
+
+show_excerpts: true
 
 discourse_url: "https://forums.freeside.co.uk"
 
