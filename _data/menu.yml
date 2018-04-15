@@ -1,0 +1,11 @@
+- name: Register
+  url: "https://register.freeside.co.uk/"
+- name: Forums
+  url: "http://forums.freeside.co.uk/"
+- name: Discord
+  url: "https://discord.gg/hBE97"
+- name: CI
+  url: "http://ci.freeside.co.uk/"
+- name: Gitlab
+  url: "https://gitlab.freeside.co.uk/"
+
