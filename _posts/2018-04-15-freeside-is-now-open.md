@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Freeside Is Now Open!
+author: Kieran Coldron
+tags:
+- updates
 ---
 
 All students should now be able to access Freeside. If you haven't visited yet details on how to find Freeside are [here](https://forums.freeside.co.uk/t/finding-the-freeside-room/50/1).
