@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/FreesideHull/minima.git
-  revision: 744fff513db1624cd210dc4de26a8d78f584a657
+  revision: a992177885f5b34f283390b6b4f8286934d3f80c
   specs:
     minima (2.4.1)
       jekyll (~> 3.5)

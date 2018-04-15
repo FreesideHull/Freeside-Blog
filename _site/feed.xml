@@ -1,4 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2018-04-15T10:47:10+01:00</updated><id>http://0.0.0.0:4000/</id><title type="html">Freeside</title><subtitle>Freeside is a student run project at the University of Hull (http://www.hull.ac.uk/) which offers free (in both free beer and free speech terms) Unix, Open and Alternative computing services to the student population </subtitle><entry><title type="html">Rising from the ashes (The state of Freeside)</title><link href="http://0.0.0.0:4000/2017/11/18/new-home-for-freeside.html" rel="alternate" type="text/html" title="Rising from the ashes (The state of Freeside)" /><published>2017-11-18T11:53:45+00:00</published><updated>2017-11-18T11:53:45+00:00</updated><id>http://0.0.0.0:4000/2017/11/18/new-home-for-freeside</id><content type="html" xml:base="http://0.0.0.0:4000/2017/11/18/new-home-for-freeside.html">&lt;h1 id=&quot;the-beginnings&quot;&gt;The beginnings.&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2018-04-15T12:45:58+01:00</updated><id>http://0.0.0.0:4000/</id><title type="html">Freeside</title><subtitle>Freeside is a student run project at the University of Hull (http://www.hull.ac.uk/) which offers free (in both free beer and free speech terms) Unix, Open and Alternative computing services to the student population </subtitle><entry><title type="html">Freeside Is Now Open!</title><link href="http://0.0.0.0:4000/2018/04/15/freeside-is-now-open.html" rel="alternate" type="text/html" title="Freeside Is Now Open!" /><published>2018-04-15T00:00:00+01:00</published><updated>2018-04-15T00:00:00+01:00</updated><id>http://0.0.0.0:4000/2018/04/15/freeside-is-now-open</id><content type="html" xml:base="http://0.0.0.0:4000/2018/04/15/freeside-is-now-open.html">&lt;p&gt;All students should now be able to access Freeside. If you haven’t visited yet details on how to find Freeside are &lt;a href=&quot;https://forums.freeside.co.uk/t/finding-the-freeside-room/50/1&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;sign-up-now&quot;&gt;Sign up Now!&lt;/h1&gt;
+&lt;p&gt;We are excited to announce offically that you can now sign up to a Freeside account &lt;a href=&quot;https://register.freeside.co.uk/&quot;&gt;here&lt;/a&gt;! With a Freeside account you can access any services we host and sign into the lab PCs.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-new-room&quot;&gt;The New Room&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/t57p8l2.jpg&quot; alt=&quot;A picture of the Freeside room&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In the Room we currently have 3 PCs with i5 processors and SSDs but, we may be able to acquire more if we can show evidence of the room being used. The PCs have Fedora 27 installed on them, this was chosen for it’s ease of use for both users and admins. The machines are configured with a central login server as well as networked home directories. (You will not be able to access your University home directories from these computers but if you know how to do this please &lt;a href=&quot;https://forums.freeside.co.uk/t/g-drive-mounting-script/30&quot;&gt;help us&lt;/a&gt;)
+If you are wanting software installed on the machines you can follow the instructions to do so &lt;a href=&quot;https://github.com/FreesideHull/Freeside-Fabfiles&quot;&gt;here&lt;/a&gt; or make a request &lt;a href=&quot;https://forums.freeside.co.uk/c/freeside/requests&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-else-is-new&quot;&gt;What Else Is New?&lt;/h1&gt;
+&lt;p&gt;The most obvious change if you have previously visited this blog is the different look - that’s because we switched to &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll!&lt;/a&gt; Ghost was great, but because of the lack of LDAP support (the system we use to centralise logins) we decided to drop it for a static &lt;a href=&quot;https://github.com/FreesideHull/Freeside-Blog&quot;&gt;git managed&lt;/a&gt; site.&lt;/p&gt;
+
+&lt;p&gt;We now have a &lt;a href=&quot;https://forums.freeside.co.uk&quot;&gt;Forum&lt;/a&gt; for discussion relating to Freeside, General chit chat and most importantly pictures of your cute cats. Be sure to head over to the Forum and &lt;a href=&quot;https://forums.freeside.co.uk/c/introductions&quot;&gt;introduce yourself&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/g5wewN6.jpg&quot; alt=&quot;Nora and Milly laying in a basket&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(Thank you Nichtvren for the cute cats!)&lt;/p&gt;
+
+&lt;p&gt;We also now have the following services:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gitlab.freeside.co.uk&quot;&gt;Gitlab&lt;/a&gt; - Host your private repositories here or use as an alternative to Github. We will be sticking with Github for our main repos for now.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ci.freeside.co.uk&quot;&gt;Continuous Delivery&lt;/a&gt; - We are using &lt;a href=&quot;http://drone.io&quot;&gt;Drone&lt;/a&gt; to provide Continuous integration/Delivery linked to our Github.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We also now have comments on the blog using Discourse so once you have finished reading this blog post be sure to post a comment!&lt;/p&gt;
+
+&lt;p&gt;If you have a suggestion for a service that you want us to host be sure to request it here &lt;a href=&quot;https://forums.freeside.co.uk/c/freeside/issues&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;contributing-to-freeside&quot;&gt;Contributing to Freeside&lt;/h1&gt;
+
+&lt;p&gt;You can visit the &lt;a href=&quot;https://forums.freeside.co.uk/c/freeside&quot;&gt;forum&lt;/a&gt; to see if there is anything you can help with, or join our &lt;a href=&quot;http://discord.freeside.co.uk&quot;&gt;Discord&lt;/a&gt; to keep up to date with whats happening. If you need help we are usually always online.&lt;/p&gt;
+
+&lt;h1 id=&quot;whats-next&quot;&gt;What’s Next?&lt;/h1&gt;
+
+&lt;p&gt;Joe is working on a new logo is in the works, here is a sneak peak.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Freeside Logo&quot; src=&quot;https://cdn.discordapp.com/attachments/364428045093699598/428533288957771779/unknown.png&quot; style=&quot;width: 50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Epictek(Kieran) is currently working on implementing OAuth with Github and Discord, This will allow getting new users on the Freeside github a lot simpler, The Discord OAuth will likely just be used to be verify that you are one of the awesome people to have signed up to a Freeside account.&lt;/p&gt;
+
+&lt;p&gt;Thanks to &lt;a href=&quot;https://starbeamrainbowlabs.com/&quot;&gt;Starbeamrainbowlabs&lt;/a&gt; for helping with proof reading.&lt;/p&gt;
+
+&lt;div id=&quot;discourse-comments&quot;&gt;&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+  var discourseUrl = &quot;https://forums.freeside.co.uk/&quot;,
+      discourseEmbedUrl = &quot;http://0.0.0.0:4000//2018/04/15/freeside-is-now-open.html&quot;;
+
+  (function() {
+    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+      d.src = discourseUrl + 'javascripts/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+  })();
+&lt;/script&gt;</content><author><name>Kieran Coldron</name></author><category term="updates" /><summary type="html">All students should now be able to access Freeside. If you haven’t visited yet details on how to find Freeside are here.</summary></entry><entry><title type="html">The state of Freeside</title><link href="http://0.0.0.0:4000/2017/11/18/new-home-for-freeside.html" rel="alternate" type="text/html" title="The state of Freeside" /><published>2017-11-18T11:53:45+00:00</published><updated>2017-11-18T11:53:45+00:00</updated><id>http://0.0.0.0:4000/2017/11/18/new-home-for-freeside</id><content type="html" xml:base="http://0.0.0.0:4000/2017/11/18/new-home-for-freeside.html">&lt;h1 id=&quot;the-beginnings&quot;&gt;The beginnings.&lt;/h1&gt;
 
 &lt;p&gt;Freeside was started back in 1997 with a decommissioned Sun box and a frustration of the Universities strict single OS network. Over the years Freeside has been very volatile with many people trying to keep it going through out the years. The latest revive was started by a group of 2015 year students and whilst this latest attempt has been certainly rocky and we have not achieved much of what we set out to do, it has been fun to have a place with like minded people. Personally I have learnt a lot from Freeside that would have not had the opportunity otherwise.&lt;/p&gt;
 
