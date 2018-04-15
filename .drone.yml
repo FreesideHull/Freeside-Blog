@@ -6,12 +6,11 @@ pipeline:
       - bundle exec jekyll build
   rsync:
     image: drillster/drone-rsync
-    user: web
+    user: www-data
     hosts:
       - freeside.co.uk
     source: ./_site
     target: /var/www/freeside-site/
-    args: -O
     secrets: [ rsync_key ]
     when:
       branch: master
