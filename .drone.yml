@@ -11,6 +11,7 @@ pipeline:
       - freeside.co.uk
     source: ./_site
     target: /var/www/freeside-site/
+    args: -O
     secrets: [ rsync_key ]
     when:
       branch: master
