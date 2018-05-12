@@ -1,6 +1,6 @@
 pipeline:
   wiki_build:
-    image: nim
+    image: nimlang/nim:latest
     commands:
       - nim compile -d:ssl --run parseWiki.nim 
   build:
