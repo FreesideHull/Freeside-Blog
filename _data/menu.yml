@@ -8,4 +8,5 @@
   url: "http://ci.freeside.co.uk/"
 - name: Gitlab
   url: "https://gitlab.freeside.co.uk/"
-
+- name: Wiki
+  url: "/wiki"
