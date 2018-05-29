@@ -3,7 +3,7 @@
 - name: Forums
   url: "http://forums.freeside.co.uk/"
 - name: Discord
-  url: "https://discord.gg/hBE97"
+  url: "http://discord.freeside.co.uk"
 - name: CI
   url: "http://ci.freeside.co.uk/"
 - name: Gitlab
