@@ -1,5 +1,3 @@
-- name: Register
-  url: "https://register.freeside.co.uk/"
 - name: Forums
   url: "http://forums.freeside.co.uk/"
 - name: Discord
@@ -10,3 +8,7 @@
   url: "https://gitlab.freeside.co.uk/"
 - name: Wiki
   url: "/wiki"
+- name: Join
+  url: "https://profiles.freeside.co.uk/join"
+- name: Login
+  url: "https://profiles.freeside.co.uk/"
