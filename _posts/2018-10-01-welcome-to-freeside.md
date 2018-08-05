@@ -17,4 +17,4 @@ Our virtual space are the [forums](https://forums.freeside.co.uk/) - where you c
 ## Goals
 This year, we would like to grow Freeside as a group such that it can be self-sustaining in the future. Currently, the group has very few active members, but with the new room and [forums](https://forums.freeside.co.uk/) we hope to change this by providing a useful place for for both beginners and the more experienced alike to learn about Linux.
 
-We'd also like to do some educational workshops in collaboration with HullCSS to teach valuable Linux-related skills to students. In today's world, having knowledge of Linux gives a competitive edge when starting a career - especially due to its ubiquity in the server world.
+We'd also like to do some educational workshops in collaboration with [HullCSS](http://hullcss.org/) to teach valuable Linux-related skills to students. In today's world, having knowledge of Linux gives a competitive edge when starting a career - especially due to its ubiquity in the server world.
