@@ -9,7 +9,7 @@ tags:
 All students should now be able to access Freeside. If you haven't visited yet details on how to find Freeside are [here](https://forums.freeside.co.uk/t/finding-the-freeside-room/50/1).
 
 # Sign up Now!
-We are excited to announce offically that you can now sign up to a Freeside account [here](https://register.freeside.co.uk/)! With a Freeside account you can access any services we host and sign into the lab PCs.
+We are excited to announce offically that you can now sign up to a Freeside account [here](https://profiles.freeside.co.uk/join)! With a Freeside account you can access any services we host and sign into the lab PCs.
 
 # The New Room
 
