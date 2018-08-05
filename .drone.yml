@@ -18,6 +18,7 @@ pipeline:
     secrets: [ rsync_key ]
     when:
       branch: master
+      event: [push, tag, deployment]
   discord:
     image: appleboy/drone-discord
     secrets: [ discord_webhook_id, discord_webhook_token ]
