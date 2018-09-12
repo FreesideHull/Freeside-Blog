@@ -22,3 +22,6 @@ This year, we would like to grow Freeside as a group such that it can be self-su
 We'd also like to do some educational workshops in collaboration with [HullCSS](http://hullcss.org/) to teach valuable Linux-related skills to students. In today's world, having knowledge of Linux gives a competitive edge when starting a career - especially due to its ubiquity in the server world.
 
 Keep an eye on our social media ([Twitter](https://twitter.com/freesidehull), [Facebook](https://www.facebook.com/freesideHull/)) for upcoming events!
+
+## Help out!
+We're always looking for more people to help out. Whether you're an experienced Linux user or just starting out, there are lots of ways that you can contribute! Check out [our forums](https://forums.freeside.co.uk) for a list of things that need doing - you're welcome to propose new ideas too!
