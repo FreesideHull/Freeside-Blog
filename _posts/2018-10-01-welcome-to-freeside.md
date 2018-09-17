@@ -2,6 +2,7 @@
 layout: post
 title: Welcome 2018 Freshers to Freeside!
 author: Starbeamrainbowlabs
+date: '2018-09-17 09:00:00'
 tags:
 - updates
 ---
