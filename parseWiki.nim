@@ -30,6 +30,7 @@ let
 
 # Loop over topics saving them to file
 for topic in topics.items:
+  sleep(2*1000)
   let
     id = topic["id"].getInt()
     raw_post = client.getContent(forum_url &  "/raw/" & intToStr(id))
