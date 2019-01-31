@@ -4,7 +4,7 @@ pipeline:
     commands:
       - nim compile -d:ssl --run parseWiki.nim 
   build:
-    image: ruby
+    image: ruby:2.6
     commands:
       - ruby --version
       - bundle --version
