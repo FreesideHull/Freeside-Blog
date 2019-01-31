@@ -6,6 +6,8 @@ pipeline:
   build:
     image: ruby
     commands:
+      - ruby --version
+      - bundle --version
       - bundle install
       - bundle exec jekyll build
   rsync:
